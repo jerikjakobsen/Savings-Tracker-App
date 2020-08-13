@@ -63,6 +63,7 @@
 		52DDCF8124D4AAD200BCD594 /* Entry.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Entry.swift; sourceTree = "<group>"; };
 		52DDCF8524D5C1FB00BCD594 /* DepositPaycheckViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DepositPaycheckViewController.swift; sourceTree = "<group>"; };
 		52DDCF8724D7CF6F00BCD594 /* DBHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DBHelper.swift; sourceTree = "<group>"; };
+		52F2D11824E5D2D90069373E /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +94,7 @@
 		52DDCF4524D48DA500BCD594 = {
 			isa = PBXGroup;
 			children = (
+				52F2D11824E5D2D90069373E /* README.md */,
 				52DDCF5024D48DA500BCD594 /* Savings */,
 				52DDCF6724D48DA800BCD594 /* SavingsTests */,
 				52DDCF7224D48DA800BCD594 /* SavingsUITests */,
